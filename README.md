@@ -1,7 +1,7 @@
 pouch-todo
 ==========
 
-A simple todo-app similar to TodoMVC, using AngularJS and PouchDB to abstract browser storage and potentially sync to CouchDB. This is based on 
+A simple todo-app similar to TodoMVC, using [Mithril.js]() and [PouchDB](http://pouchdb.com) to abstract browser storage and potentially sync to CouchDB. This is based on 
 [an old AngularJS version](https://github.com/orbitbot/pouch-todo).
 
 
